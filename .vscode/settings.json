@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0C217D",
+        "titleBar.activeBackground": "#112EAF",
+        "titleBar.activeForeground": "#FAFBFF"
+    },
+    "livePreview.defaultPreviewPath": "/.vscode/myntra/index.html"
+}
